@@ -15,7 +15,7 @@ class MyApp extends StatelessWidget {
       theme: ThemeData(
         textTheme: TextTheme(
           headline1: TextStyle(
-              fontSize: 49.0,
+              fontSize: 50.0,
               fontWeight: FontWeight.w400,
               fontFamily: 'Roboto'),
           headline2: TextStyle(
